@@ -47,4 +47,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirajan426&show_icons=true&locale=en" alt="nirajan426" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajan426&" alt="nirajan426" /></p>
