@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirajan Chaudhary</h1>
-<h3 align="center">A passionate programmer from Nepal</h3>
+<h3 align="center">Aspiring Engineer & Programmer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajan426&label=Profile%20views&color=0e75b6&style=flat" alt="nirajan426" /> </p>
 
