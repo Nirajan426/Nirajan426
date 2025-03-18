@@ -11,11 +11,10 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **[Bank Management System](https://github.com/Nirajan426/Bank-Management-System.git)**
 - 🌱 I’m currently learning **Machine Learning**
 - 👨‍💻 All of my projects are available at **[nirajanchaudhary426.com.np](http://nirajanchaudhary426.com.np)**
 - 📫 How to reach me: **nirajanchaudhary624@gmail.com**
-- ⚡ Fun fact: **I think I am Funny 😆**
+- ⚡ Fun fact: **I can spend hours debugging but only minutes coding**
 
 ---
 
