@@ -11,10 +11,13 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-- 👨‍💻 All of my projects are available at **[nirajanchaudhary426.com.np](http://nirajanchaudhary426.com.np)**
-- 📫 How to reach me: **nirajanchaudhary624@gmail.com**
-- ⚡ Fun fact: **I can spend hours debugging but only minutes coding**
+
+💡 Currently exploring: **Deep Learning**, **Python Projects**, and **AI tools**  
+🧠 I love solving real-world problems using tech  
+📬 Reach me at: [nirajanchaudhary624@gmail.com](mailto:nirajanchaudhary624@gmail.com)  
+🌐 Always open to collaboration and new ideas  
+🤓 Fun fact: I enjoy debugging more than writing the actual code!
+
 
 ---
 
