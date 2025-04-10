@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Engineer & Programmer from Nepal</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nirajan426&label=👀 Profile%20Views&color=ff69b4&style=for-the-badge" alt="nirajan426" /> 
+  <img src="https://komarev.com/ghpvc/?username=nirajan426&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="left"> 
