@@ -22,16 +22,20 @@
 ---
 
 ## **🌐 Connect with me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/nirajan-chaudhary-08b494302/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100039122022832" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-</p>
+<p align="center">
+  <!-- LinkedIn (skillicons) -->
+  <a href="https://www.linkedin.com/in/nirajan-chaudhary-08b494302/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height:48px; vertical-align: middle;" />
+  </a>
 
----
+  <!-- Facebook (custom icon, matched size & alignment) -->
+  <a href="https://www.facebook.com/profile.php?id=100039122022832" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="Facebook" 
+         height="48" 
+         style="vertical-align: middle; margin-left: 6px;" />
+  </a>
+</p>
 
 ## **💻 Languages and Tools:**
 <p align="center">
