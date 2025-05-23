@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nirajan Chaudhary</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirajan Chaudhary</h1>
 <h3 align="center">Aspiring Engineer & Programmer from Nepal</h3>
 
 <p align="left"> 
@@ -12,12 +12,10 @@
 </p>
 
 
-💡 Currently exploring: **Deep Learning**, **Python Projects**, and **AI tools**  
+💡 Currently exploring: **Machine Learning models**, **Python Projects**, and **AI tools**  
 🧠 I love solving real-world problems using tech  
 📬 Reach me at: [nirajanchaudhary624@gmail.com](mailto:nirajanchaudhary624@gmail.com)  
-🌐 Always open to collaboration and new ideas  
 🤓 Fun fact: I enjoy debugging more than writing the actual code!
-
 
 ---
 
